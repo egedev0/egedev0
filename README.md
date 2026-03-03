@@ -1,1 +1,1 @@
-Full-stack dev | Go & React | Building waitlistkit.dev & rilo.chat
+Full-stack dev | Go & React | Building pingvolt.io & rilo.chat
