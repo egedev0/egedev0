@@ -1,2 +1,2 @@
 Full-stack dev | Go & React |
-sendora.tech
+sendora.tech, sendwhere.net
