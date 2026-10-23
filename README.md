@@ -1,2 +1,2 @@
 Full-stack dev | Go & React |
-sendora.tech, sendwhere.net, iglo.games
+hexreel.com, sendora.tech
